@@ -1,6 +1,6 @@
 # *.zulipchat.com
 
-Realms found in zulipchat.com
+Public realms found in zulipchat.com.
 
 ## langs
 
