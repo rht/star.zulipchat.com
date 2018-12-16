@@ -25,6 +25,7 @@ Public realms found in zulipchat.com.
 
 ## to be classified
 - Wikimedia Outreach https://wikimedia.zulipchat.com/login/. https://www.mediawiki.org/wiki/Outreach_programs.
+- Xi Editor https://xi.zulipchat.com
 
 # Self-hosted public instances
 
