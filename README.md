@@ -19,6 +19,9 @@ Public realms found in zulipchat.com.
 ## database
 - Infinispan https://infinispan.zulipchat.com. Infinispan is a distributed in-memory key/value data store with optional schema, available under the Apache License 2.0.
 
+## to be classified
+- Wikimedia Outreach https://wikimedia.zulipchat.com/login/. https://www.mediawiki.org/wiki/Outreach_programs.
+
 # Self-hosted public instances
 
 - FHIR https://chat.fhir.org
