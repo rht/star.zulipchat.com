@@ -15,3 +15,8 @@ Realms found in zulipchat.com
 
 ## database
 - Infinispan https://infinispan.zulipchat.com. Infinispan is a distributed in-memory key/value data store with optional schema, available under the Apache License 2.0.
+
+# Self-hosted public instances
+
+- FHIR https://chat.fhir.org
+- SageMath https://zulip.sagemath.org
