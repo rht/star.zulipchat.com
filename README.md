@@ -10,6 +10,9 @@ Public realms found in zulipchat.com.
 - Python https://python.zulipchat.com
 - Rust https://rust-lang.zulipchat.com
 
+## audio
+- Mixxx https://mixxx.zulipchat.com. Mixxx is Free DJ software that gives you everything you need to perform live mixes. Please read the Mixxx Code of Conduct before participating.
+
 ## health
 - Loop https://loop.zulipchat.com. Loop is an app template for building an automated insulin delivery system. It is not distributed as a pre-built app that can be installed; you must build it yourself. Support is only through the work of generous volunteers. Please be respectful of their time. https://github.com/LoopKit/Loop
 
