@@ -7,6 +7,7 @@ Public realms found in zulipchat.com.
 - Clojure https://clojurians.zulipchat.com
 - Elixir https://elixir.zulipchat.com
 - Lean https://leanprover.zulipchat.com
+- Oil https://oilshell.zulipchat.com/
 - Python https://python.zulipchat.com
 - Rust https://rust-lang.zulipchat.com
 
