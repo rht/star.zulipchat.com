@@ -30,6 +30,7 @@ Public realms found in zulipchat.com.
 
 ## Science
 - Evoplex https://evoplex.zulipchat.com/. Evoplex is a fast, robust and extensible platform for developing agent-based models and multi-agent systems on networks.
+- scikit-image https://skimage.zulipchat.com. scikit-image is a collection of algorithms for image processing.
 
 ## to be classified
 - W3C Credible Web Community Group https://credweb.zulipchat.com
