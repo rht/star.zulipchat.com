@@ -39,6 +39,7 @@ Public realms found in zulipchat.com.
 - W3C Credible Web Community Group https://credweb.zulipchat.com
 - Wikimedia Outreach https://wikimedia.zulipchat.com/login/. https://www.mediawiki.org/wiki/Outreach_programs.
 - Xi Editor https://xi.zulipchat.com
+- Hydra framework https://hydra-framework.zulipchat.com/. See https://github.com/facebookresearch/hydra.
 
 # Self-hosted public instances
 
