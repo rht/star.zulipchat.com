@@ -37,7 +37,7 @@ Public realms found in zulipchat.com.
 - scikit-image https://skimage.zulipchat.com. scikit-image is a collection of algorithms for image processing.
 - Category theory https://categorytheory.zulipchat.com. A home for all who love categories.
 - INSPIRE-HEP https://inspirehep.zulipchat.com. INSPIRE-HEP is an open access digital library for the field of high energy physics (HEP).
-
+- Hail https://hail.zulipchat.com. Hail is an open-source, scalable framework for exploring and analyzing biological data, originally developed to process some of the largest genetic datasets ever created.
 
 ## to be classified
 - W3C Credible Web Community Group https://credweb.zulipchat.com
