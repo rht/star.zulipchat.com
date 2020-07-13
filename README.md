@@ -16,8 +16,9 @@ Public realms found in zulipchat.com.
 - Pony https://ponylang.zulipchat.com. Pony is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 - Isabelle https://isabelle.zulipchat.com/ (archive: https://isabelle-prover.github.io/zulip-archive/). Isabelle is an interactive theorem prover, a higher order logic (HOL) theorem prover.
 
-## audio
+## audio / video
 - Mixxx https://mixxx.zulipchat.com. Mixxx is Free DJ software that gives you everything you need to perform live mixes. Please read the Mixxx Code of Conduct before participating.
+- OpenShot https://openshot.zulipchat.com/. We are the developers of OpenShot Video Editor, the free, open, and award-Winning video editor for Linux, Mac, and Windows! We use Zulip to communicate, monitor, and support OpenShot Video Editor and it's related projects (openshot-qt, libopenshot, libopenshot-audio).
 
 ## community
 - oscafrica.org https://oscafrica.zulipchat.com
