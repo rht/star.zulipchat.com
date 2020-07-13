@@ -24,6 +24,7 @@ Public realms found in zulipchat.com.
 - oscafrica.org https://oscafrica.zulipchat.com
 - The Girl Code https://tgc.zulipchat.com
 - CodeRefinery https://coderefinery.zulipchat.com
+- https://programmers.zulipchat.com. This is a Zulip forum for programmers.
 
 ## database
 - Infinispan https://infinispan.zulipchat.com. Infinispan is a distributed in-memory key/value data store with optional schema, available under the Apache License 2.0.
@@ -46,6 +47,6 @@ Public realms found in zulipchat.com.
 
 # Self-hosted public instances
 
-- Zulip https://chat.zulip.org/. Zulip development and user community
+- Zulip https://chat.zulip.org. Zulip development and user community
 - FHIR https://chat.fhir.org. FHIR is a platform specification that defines a set of capabilities used across the healthcare process.
 - SageMath https://zulip.sagemath.org
