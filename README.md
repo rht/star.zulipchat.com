@@ -26,6 +26,7 @@ Public realms found in zulipchat.com.
 - The Girl Code https://tgc.zulipchat.com
 - CodeRefinery https://coderefinery.zulipchat.com
 - https://programmers.zulipchat.com. This is a Zulip forum for programmers.
+- AnitaB.org https://anitab-org.zulipchat.com. AnitaB.org is a global nonprofit organization based in Belmont, California. Founded by computer scientists Anita Borg and Telle Whitney, the institute's primary aim is to recruit, retain, and advance women in technology.
 
 ## database
 - Infinispan https://infinispan.zulipchat.com. Infinispan is a distributed in-memory key/value data store with optional schema, available under the Apache License 2.0.
