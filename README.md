@@ -13,6 +13,7 @@ Public realms found in zulipchat.com.
   Libraries:
   - Salsa https://salsa.zulipchat.com. A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - Coq https://coq.zulipchat.com/
+- Pony https://ponylang.zulipchat.com. Pony is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 
 ## audio
 - Mixxx https://mixxx.zulipchat.com. Mixxx is Free DJ software that gives you everything you need to perform live mixes. Please read the Mixxx Code of Conduct before participating.
