@@ -35,6 +35,7 @@ Public realms found in zulipchat.com.
 - Evoplex https://evoplex.zulipchat.com/. Evoplex is a fast, robust and extensible platform for developing agent-based models and multi-agent systems on networks.
 - scikit-image https://skimage.zulipchat.com. scikit-image is a collection of algorithms for image processing.
 - Category theory https://categorytheory.zulipchat.com. A home for all who love categories.
+- INSPIRE-HEP https://inspirehep.zulipchat.com/. INSPIRE-HEP is an open access digital library for the field of high energy physics (HEP).
 
 
 ## to be classified
