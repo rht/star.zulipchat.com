@@ -46,5 +46,6 @@ Public realms found in zulipchat.com.
 
 # Self-hosted public instances
 
+- Zulip https://chat.zulip.org/. Zulip development and user community
 - FHIR https://chat.fhir.org. FHIR is a platform specification that defines a set of capabilities used across the healthcare process.
 - SageMath https://zulip.sagemath.org
