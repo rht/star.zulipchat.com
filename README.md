@@ -42,6 +42,7 @@ Public realms found in zulipchat.com.
 - Wikimedia Outreach https://wikimedia.zulipchat.com/login/. https://www.mediawiki.org/wiki/Outreach_programs.
 - Xi Editor https://xi.zulipchat.com
 - Hydra framework https://hydra-framework.zulipchat.com/. See https://github.com/facebookresearch/hydra.
+- Wildfly https://wildfly.zulipchat.com/. WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.
 
 # Self-hosted public instances
 
