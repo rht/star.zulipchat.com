@@ -9,6 +9,7 @@ Public realms found in zulipchat.com.
 - Lean https://leanprover.zulipchat.com
 - Oil https://oilshell.zulipchat.com
 - Python https://python.zulipchat.com
+- Julia https://julialang.zulipchat.com/
 - Rust https://rust-lang.zulipchat.com
   Libraries:
   - Salsa https://salsa.zulipchat.com. A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
