@@ -14,6 +14,7 @@ Public realms found in zulipchat.com.
   - Salsa https://salsa.zulipchat.com. A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - Coq https://coq.zulipchat.com/
 - Pony https://ponylang.zulipchat.com. Pony is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
+- Isabelle https://isabelle.zulipchat.com/ (archive: https://isabelle-prover.github.io/zulip-archive/). Isabelle is an interactive theorem prover, a higher order logic (HOL) theorem prover.
 
 ## audio
 - Mixxx https://mixxx.zulipchat.com. Mixxx is Free DJ software that gives you everything you need to perform live mixes. Please read the Mixxx Code of Conduct before participating.
