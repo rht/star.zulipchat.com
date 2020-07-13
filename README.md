@@ -25,9 +25,6 @@ Public realms found in zulipchat.com.
 - The Girl Code https://tgc.zulipchat.com
 - CodeRefinery https://coderefinery.zulipchat.com
 
-## health
-- Loop https://loop.zulipchat.com. Loop is an app template for building an automated insulin delivery system. It is not distributed as a pre-built app that can be installed; you must build it yourself. Support is only through the work of generous volunteers. Please be respectful of their time. https://github.com/LoopKit/Loop
-
 ## database
 - Infinispan https://infinispan.zulipchat.com. Infinispan is a distributed in-memory key/value data store with optional schema, available under the Apache License 2.0.
 - MariaDB https://mariadb.zulipchat.com
@@ -38,6 +35,7 @@ Public realms found in zulipchat.com.
 - Category theory https://categorytheory.zulipchat.com. A home for all who love categories.
 - INSPIRE-HEP https://inspirehep.zulipchat.com. INSPIRE-HEP is an open access digital library for the field of high energy physics (HEP).
 - Hail https://hail.zulipchat.com. Hail is an open-source, scalable framework for exploring and analyzing biological data, originally developed to process some of the largest genetic datasets ever created.
+- Loop https://loop.zulipchat.com. Loop is an app template for building an automated insulin delivery system. It is not distributed as a pre-built app that can be installed; you must build it yourself. Support is only through the work of generous volunteers. Please be respectful of their time. https://github.com/LoopKit/Loop
 
 ## to be classified
 - W3C Credible Web Community Group https://credweb.zulipchat.com
