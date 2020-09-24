@@ -46,6 +46,7 @@ Public realms found in zulipchat.com.
 - Xi Editor https://xi.zulipchat.com
 - Hydra framework https://hydra-framework.zulipchat.com. See https://github.com/facebookresearch/hydra.
 - Wildfly https://wildfly.zulipchat.com/. WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.
+- Quarkus https://quarkusio.zulipchat.com/. Quarkus is a full-stack, Kubernetes-native, Java Framework tailored for OpenJDK HotSpot and GraalVM.
 
 # Self-hosted public instances
 
