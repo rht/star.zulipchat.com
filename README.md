@@ -48,7 +48,8 @@ Public realms found in zulipchat.com.
 - Wildfly https://wildfly.zulipchat.com/. WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.
 - Quarkus https://quarkusio.zulipchat.com/. Quarkus is a full-stack, Kubernetes-native, Java Framework tailored for OpenJDK HotSpot and GraalVM.
 - VivumLab https://vivumlab.zulipchat.com/. An open-source data-center, owned by you, the user.
-- Servo https://servo.zulipchat.com/. Servo is a prototype web browser engine written in the Rust language..
+- Servo https://servo.zulipchat.com/. Servo is a prototype web browser engine written in the Rust language.
+- D3.js https://d3js.zulipchat.com/. D3.js is a JavaScript library for manipulating documents based on data.
 
 # Self-hosted public instances
 
