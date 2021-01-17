@@ -28,9 +28,10 @@ Public realms found in zulipchat.com.
 - https://programmers.zulipchat.com. This is a Zulip forum for programmers.
 - AnitaB.org https://anitab-org.zulipchat.com. AnitaB.org is a global nonprofit organization based in Belmont, California. Founded by computer scientists Anita Borg and Telle Whitney, the institute's primary aim is to recruit, retain, and advance women in technology.
 
-## database
+## database / cache
 - Infinispan https://infinispan.zulipchat.com. Infinispan is a distributed in-memory key/value data store with optional schema, available under the Apache License 2.0.
 - MariaDB https://mariadb.zulipchat.com
+- Pelikan Cache https://pelikan.zulipchat.com/. Pelikan is a cache framework written in C. It provides an expanding collection of cache services, and a common library used to build them.
 
 ## science and math
 - Evoplex https://evoplex.zulipchat.com. Evoplex is a fast, robust and extensible platform for developing agent-based models and multi-agent systems on networks.
