@@ -8,7 +8,7 @@ Public realms found in zulipchat.com.
 - Elixir https://elixir.zulipchat.com
 - Lean https://leanprover.zulipchat.com
 - Oil https://oilshell.zulipchat.com
-- Python https://python.zulipchat.com (warn: very low traffic; you'd be better off visiting the Discourse/IRC)
+- Python https://python.zulipchat.com
 - Julia https://julialang.zulipchat.com
 - Rust https://rust-lang.zulipchat.com  
   Libraries:
