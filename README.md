@@ -51,6 +51,7 @@ Public realms found in zulipchat.com.
 - VivumLab https://vivumlab.zulipchat.com/. An open-source data-center, owned by you, the user.
 - Servo https://servo.zulipchat.com/. Servo is a prototype web browser engine written in the Rust language.
 - D3.js https://d3js.zulipchat.com/. D3.js is a JavaScript library for manipulating documents based on data.
+- Backdrop CMS https://backdrop.zulipchat.com/. The free and open source CMS that helps you build websites for businesses and non-profits.
 
 # Self-hosted public instances
 
