@@ -41,6 +41,9 @@ Public realms found in zulipchat.com.
 - Hail https://hail.zulipchat.com. Hail is an open-source, scalable framework for exploring and analyzing biological data, originally developed to process some of the largest genetic datasets ever created.
 - Loop https://loop.zulipchat.com. Loop is an app template for building an automated insulin delivery system. It is not distributed as a pre-built app that can be installed; you must build it yourself. Support is only through the work of generous volunteers. Please be respectful of their time. https://github.com/LoopKit/Loop
 
+## hardware
+- EI2030 https://ei2030.zulipchat.com/. Open-Source E-ink laptop development working groups
+
 ## to be classified
 - W3C Credible Web Community Group https://credweb.zulipchat.com
 - Wikimedia Outreach https://wikimedia.zulipchat.com/login/. https://www.mediawiki.org/wiki/Outreach_programs.
