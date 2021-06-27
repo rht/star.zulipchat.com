@@ -6,7 +6,7 @@ Public realms found in zulipchat.com.
 
 - Clojure https://clojurians.zulipchat.com
 - Elixir https://elixir.zulipchat.com
-- Lean https://leanprover.zulipchat.com
+- Lean https://leanprover.zulipchat.com (archive: https://leanprover-community.github.io/archive/)
 - Oil https://oilshell.zulipchat.com
 - Python https://python.zulipchat.com
 - Julia https://julialang.zulipchat.com (archive: https://juliacommunity.github.io/zulip-archive/)
