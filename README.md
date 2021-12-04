@@ -57,6 +57,7 @@ Disclaimer: this list is a *small subset* of the existing public realms of zulip
 - Servo https://servo.zulipchat.com/. Servo is a prototype web browser engine written in the Rust language.
 - D3.js https://d3js.zulipchat.com/. D3.js is a JavaScript library for manipulating documents based on data.
 - Backdrop CMS https://backdrop.zulipchat.com/. The free and open source CMS that helps you build websites for businesses and non-profits.
+- Bytecode Alliance https://bytecodealliance.zulipchat.com/. The Bytecode Alliance is an open source community dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI).
 
 # Self-hosted public instances
 
