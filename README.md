@@ -1,6 +1,10 @@
 # *.zulipchat.com
 
-Public realms found in zulipchat.com.
+
+Public realms found in zulipchat.com.  
+Official list: https://zulip.com/communities/  
+But some of the organizations in this repo are still not listed in the page above.
+
 Disclaimer: this list is a *small subset* of the existing public realms of zulipchat.com. I found them from combing through github.com (for zulipchat.com keyword), HN posts, Reddit posts, etc.
 
 ## langs
